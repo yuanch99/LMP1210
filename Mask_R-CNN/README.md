@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/19Xo3YOi4GYO706w2J7SFPJBMDvORGEuT?usp=sha
 
 Both annotations files and image folders need to be saved
 
-Link to the colab: 
+Link to the colab (runtime has to be GPU): 
 https://colab.research.google.com/drive/1YG1_cnWyVJNSYB0r8__OwlkarzwnAi_x?usp=sharing
 
 Download the configs and create 2 folders under mmdetection called SN and CWM. Add the specific configs to these folders for model testing and training. 
