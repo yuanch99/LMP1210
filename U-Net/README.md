@@ -1,6 +1,6 @@
 This directory contatins the U-Net model, data and scripts.
 
-All data used and weightes saved can be found in the google drive like [here](https://drive.google.com/drive/folders/1I0VnDDriFHwjLjMFvlpw74BfIGXhk-wI?usp=sharing) in the U-Net_data subdirectory. 
+All data used and weightes saved can be found in the google drive link [here](https://drive.google.com/drive/folders/1I0VnDDriFHwjLjMFvlpw74BfIGXhk-wI?usp=sharing) in the U-Net_data subdirectory. 
 
 The traning and cross validation data can be found in the train_val dirctory, and test data can be found in the test_dicrctory.
 
