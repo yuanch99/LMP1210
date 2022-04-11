@@ -18,4 +18,13 @@ Download the configs and create 2 folders under mmdetection called SN and CWM. A
 
 Single image inferencing configs are already specified. 
 
+General workflow: 
+
+Building the model and the dataset
+- First, we need to point to the config file of our model to our dataset
+- Specify each of the train, test, and validation datasets (images and COCO annotations files) 
+- Specify the hyperparameters
+Training
+Inference
+
 Author: Peter Her
