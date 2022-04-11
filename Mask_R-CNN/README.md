@@ -24,7 +24,9 @@ Building the model and the dataset
 - First, we need to point to the config file of our model to our dataset
 - Specify each of the train, test, and validation datasets (images and COCO annotations files) 
 - Specify the hyperparameters
+
 Training
+
 Inference
 
 Author: Peter Her
